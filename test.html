@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../../css/bootstrap.css" />
+
+    <!-- Fontawsome -->
+    <link rel="stylesheet" href="../../css/all.css" />
+
+    <title>JavaScript Fundamentals – Part 1</title>
+    <style>
+      body {
+        height: 100vh;
+        align-items: center;
+        background: linear-gradient(to top left, #0f221c, #091307);
+      }
+
+      h1 {
+        font-family: sans-serif;
+        font-size: 50px;
+        line-height: 1.3;
+        width: 100%;
+        padding: 30px;
+        text-align: center;
+        color: white;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1 id="test">JavaScript Fundamentals – Part 1</h1>
+    <br />
+    <div class="container">
+      <div class="row">
+        <button
+          class="btn btn-outline-danger btn-block btn-lg rounded-pill"
+          type="button"
+          onclick="myFunction()"
+        >
+          Try It
+        </button>
+      </div>
+      <br />
+      <!-- card with obejct learning -->
+      <div class="row justify-content-center">
+        <div class="col-10">
+          <div class="card">
+            <div class="card-body">
+              <img
+                class="img-thumbnail card-img-top"
+                src="../Ionic-5.jpg"
+                alt=""
+              />
+              <div class="row text-center">
+                <div class="col">
+                  <span><i class="fa-solid fa-car"></i></span>
+                  <br />
+                  <h5
+                    class="card-title badge"
+                    id="brand"
+                    style="
+                      background-color: rgb(0, 36, 86);
+                      color: rgb(254, 198, 41);
+                    "
+                  >
+                    brand
+                  </h5>
+                </div>
+                <div class="col">
+                  <span><i class="fa-solid fa-car"></i></span>
+                  <br />
+                  <h5
+                    class="card-title badge"
+                    id="model"
+                    style="
+                      background-color: rgb(0, 36, 86);
+                      color: rgb(254, 198, 41);
+                    "
+                  >
+                    type
+                  </h5>
+                </div>
+                <div class="col">
+                  <span><i class="fa-solid fa-car"></i></span>
+                  <br />
+                  <h5
+                    class="card-title badge"
+                    id="color"
+                    style="
+                      background-color: rgb(0, 36, 86);
+                      color: rgb(254, 198, 41);
+                    "
+                  >
+                    color
+                  </h5>
+                </div>
+              </div>
+              <p class="card-text text-justify" id="description">text</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br /><br />
+      <!-- JavaScript events -->
+      <div class="row justify-content-center">
+        <div class="col-8">
+          <div class="card">
+            <img
+              class="card-img-top"
+              src="../bulb-off.png"
+              alt="bulb on-off"
+              id="bulb"
+            />
+            <div class="card-body row text-center">
+              <div class="col">
+                <button
+                  class="btn btn-warning btn-block rounded-pill"
+                  type="button"
+                  onclick="on_bulb()"
+                >
+                  Onn
+                </button>
+              </div>
+              <div class="col">
+                <button
+                  class="btn btn-warning btn-block rounded-pill"
+                  type="button"
+                  onclick="off_bulb()"
+                >
+                  Off
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br /><br />
+    </div>
+    <script src="../../js/jquery-3.7.1.min.js"></script>
+    <script src="../../js/popper.min.js"></script>
+    <script src="../../js/bootstrap.js"></script>
+    <script src="../../js/all.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

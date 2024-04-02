@@ -1,0 +1,153 @@
+[
+    {
+        "statename": {},
+        "distance": "0.036",
+        "elevation": "1",
+        "osmtags": {
+            "boundary": "administrative",
+            "name": "F/N Ward",
+            "type": "boundary",
+            "admin_level": "10"
+        },
+        "state": "Maharashtra",
+        "latt": "19.03724",
+        "city": "Mumbai",
+        "prov": "IN",
+        "intersection": {
+            "distance": "0.031",
+            "xlat": "19.037043",
+            "xlon": "72.87329",
+            "street2": "Pratiksha Nagar Chawl Koliwada Sion",
+            "street1": "Transit Camp near Wadala"
+        },
+        "geocode": "MUMBAI-PFSBO",
+        "geonumber": "8341386382408",
+        "country": "India",
+        "stnumber": "14",
+        "staddress": "Pratiksha Nagar Chawl Koliwada Sion",
+        "inlatt": "19.03700",
+        "alt": {
+            "loc": [
+                {
+                    "staddress": "Pratiksha Nagar Chawl Koliwada Sion",
+                    "stnumber": "14",
+                    "postal": "400022",
+                    "latt": "19.037236",
+                    "city": "Mumbai",
+                    "prov": "Maharashtra",
+                    "longt": "72.873229",
+                    "class": {}
+                },
+                {
+                    "staddress": "Mkada Chawl Koliwada Sion",
+                    "stnumber": "14",
+                    "postal": "400022",
+                    "dist": "0.095",
+                    "latt": "19.037834",
+                    "city": "Mumbai",
+                    "prov": "Maharashtra",
+                    "longt": "72.872806",
+                    "class": {}
+                },
+                {
+                    "staddress": "Pratiksha Nagar Chawl Koliwada Sion",
+                    "stnumber": "14",
+                    "postal": "400022",
+                    "dist": "0.036",
+                    "latt": "19.037236",
+                    "city": "Mumbai",
+                    "prov": "Maharashtra",
+                    "longt": "72.873229",
+                    "class": {}
+                },
+                {
+                    "staddress": "Transit Camp near Wadala",
+                    "stnumber": "2",
+                    "postal": "400037",
+                    "dist": "0.040",
+                    "latt": "19.03685",
+                    "city": "Mumbai",
+                    "prov": "Maharashtra",
+                    "longt": "72.873351",
+                    "class": {}
+                }
+            ]
+        },
+        "timezone": "Asia/Kolkata",
+        "region": "Maharashtra",
+        "postal": "400022",
+        "longt": "72.87323",
+        "remaining_credits": {},
+        "confidence": "0.9",
+        "inlongt": "72.87300",
+        "class": {},
+        "adminareas": {
+            "admin10": {
+                "level": "10",
+                "boundary": "administrative",
+                "name": "F/N Ward",
+                "type": "boundary",
+                "admin_level": "10"
+            },
+            "admin9": {
+                "level": "9",
+                "boundary": "administrative",
+                "name": "Zone 2",
+                "type": "boundary",
+                "admin_level": "9"
+            },
+            "admin8": {
+                "population": "12478447",
+                "website": "https://portal.mcgm.gov.in/irj/portal/anonymous",
+                "name_th": "มุมไบ",
+                "name_az": "Mumbay",
+                "operator_wikidata": "Q1195653",
+                "addr_country": "IN",
+                "alt_name_en": "Bombay",
+                "name_uk": "Мумбаї",
+                "is_in_iso_3166_2": "IN-MH",
+                "boundary": "administrative",
+                "name_ko": "뭄바이",
+                "name_si": "මුම්බායි",
+                "name_en": "Mumbai",
+                "name_el": "Μουμπάι",
+                "name_yi": "מומביי",
+                "is_in_continent": "Asia",
+                "is_in_state": "Maharashtra",
+                "name": "Mumbai",
+                "operator_alt_name": "Brihanmumbai Municipal Corporation",
+                "is_in_country": "India",
+                "level": "8",
+                "name_ur": "ممبئی",
+                "name_pa": "ਮੁੰਬਈ",
+                "type": "boundary",
+                "name_hi": "मुम्बई",
+                "wikipedia": "en:Mumbai",
+                "addr_state": "Maharashtra",
+                "name_mr": "मुंबई",
+                "name_ja": "ムンバイ",
+                "name_zh": "孟买",
+                "is_in_country_code": "IN",
+                "operator": "Municipal Corporation of Greater Mumbai",
+                "name_ml": "മുംബൈ",
+                "name_ka": "მუმბაი",
+                "wikidata": "Q1156",
+                "name_yue": "孟買",
+                "name_or": "ମୁମ୍ବାଇ",
+                "name_bn": "মুম্বই",
+                "admin_level": "8",
+                "population_date": "2011",
+                "name_gu": "મુંબઈ"
+            },
+            "admin5": {
+                "wikidata": "Q2341660",
+                "level": "5",
+                "boundary": "administrative",
+                "name": "Mumbai City",
+                "type": "boundary",
+                "admin_level": "5"
+            }
+        },
+        "altgeocode": "MARAOLI-PFSBO"
+    }
+]

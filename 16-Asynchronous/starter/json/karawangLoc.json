@@ -1,0 +1,89 @@
+{
+    "statename": {},
+    "distance": "0.020",
+    "elevation": "17",
+    "state": "Jawa Barat",
+    "latt": "-6.31155",
+    "city": "Kabupaten Karawang",
+    "prov": "ID",
+    "intersection": {
+        "distance": "0.058",
+        "xlat": "-6.3112865",
+        "xlon": "107.314552",
+        "street2": "Karawang Wetan Kec. Karawang Tim.",
+        "street1": "Jalan Otto Iskandar Dinata"
+    },
+    "geocode": "BEKASI-TUUNZ",
+    "geonumber": "5083895380459",
+    "country": "Indonesia",
+    "stnumber": "14",
+    "staddress": "RT.02/RW.17 Karawang Wetan Kec. Karawang Tim.",
+    "inlatt": "-6.31138",
+    "alt": {
+        "loc": [
+            {
+                "staddress": "RT.02/RW.17 Karawang Wetan Kec. Karawang Tim.",
+                "stnumber": "14",
+                "postal": "41314",
+                "latt": "-6.311548",
+                "city": "Kabupaten Karawang",
+                "prov": "Jawa Barat",
+                "longt": "107.314995",
+                "class": {}
+            },
+            {
+                "staddress": "Karawang Wetan Kec. Karawang Tim.",
+                "stnumber": "17",
+                "postal": "41314",
+                "dist": "0.055",
+                "latt": "-6.311313",
+                "city": "Kabupaten Karawang",
+                "prov": "Jawa Barat",
+                "longt": "107.314574",
+                "class": {}
+            },
+            {
+                "staddress": "RT.02/RW.17 Karawang Wetan Kec. Karawang Tim.",
+                "stnumber": "14",
+                "postal": "41314",
+                "dist": "0.020",
+                "latt": "-6.311548",
+                "city": "Kabupaten Karawang",
+                "prov": "Jawa Barat",
+                "longt": "107.314995",
+                "class": {}
+            },
+            {
+                "staddress": "Jl. Singadireja",
+                "stnumber": "5",
+                "postal": "41314",
+                "dist": "0.120",
+                "latt": "-6.312441",
+                "city": "Kabupaten Karawang",
+                "prov": "Jawa Barat",
+                "longt": "107.314849",
+                "class": {}
+            },
+            {
+                "staddress": "Blok Mekar Jl. Otto Iskandar Dinata",
+                "stnumber": "10",
+                "postal": "41314",
+                "dist": "0.041",
+                "latt": "-6.311384",
+                "city": "Karawang",
+                "prov": "Jawa Barat",
+                "longt": "107.314698",
+                "class": {}
+            }
+        ]
+    },
+    "timezone": "Asia/Jakarta",
+    "region": "West Java",
+    "postal": "41314",
+    "longt": "107.31499",
+    "remaining_credits": {},
+    "confidence": "0.9",
+    "inlongt": "107.31507",
+    "class": {},
+    "altgeocode": "JOHARTENGAH-TUUNZ"
+}
